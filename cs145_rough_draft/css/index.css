@@ -1,0 +1,9 @@
+.bgimg {
+    background-image: url("../images/peaceful-img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
